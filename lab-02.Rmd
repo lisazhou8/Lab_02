@@ -82,7 +82,6 @@ plastic_data_all %>% head(n = 10)
 # Write your code here to answer exercise 1
 
 
-
 ```
 
 
